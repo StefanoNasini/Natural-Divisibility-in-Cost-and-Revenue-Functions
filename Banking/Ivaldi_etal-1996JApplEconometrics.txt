@@ -1,0 +1,29 @@
+Marc Ivaldi, Norbert Ladoux, Hervé Ossard, Michel Simioni (1996) Comparing Fourier and Translog Specifications of multiproduct Technology: Evidence from an Incomplete Panel of French Farmers, Journal of Applied Econometrics, 11(6), 649-668.
+
+Data Source: Réseau d'Information Comptable Agricole (RICA), Institut National de la Recherche Agronomique (INRA) The data are in the file inra.asc, which is zipped in the file ilos-dat.zip. Note that inra.asc is in Unix format.  Data File Organisation: 24 columns, one for each variable, last row gives the name of each variable,
+K84   is Capital stock, year 1984
+L84   is Labor quantity, year 1984
+M84   is Materials quantity, year 1984
+Y1Z84 is Volume of apple production, year 1984
+Y2Z84 is Volume of  other productions, year 1984
+PK84  is price of capital, year 1984
+PL84  is price of labor, year 1984
+PM84  is price of materials, year 1984
+
+K85   is Capital stock, year 1985
+L85   is Labor quantity, year 1985
+M85   is Materials quantity, year 1985
+Y1Z85 is Volume of apple production, year 1985
+Y2Z85 is Volume of  other productions, year 1985
+PK85  is price of capital, year 1985
+PL85  is price of labor, year 1985
+PM85  is price of materials, year 1985
+
+K86   is Capital stock, year 1986
+L86   is Labor quantity, year 1986
+M86   is Materials quantity, year 1986
+Y1Z86 is Volume of apple production, year 1986
+Y2Z86 is Volume of  other productions, year 1986
+PK86  is price of capital, year 1986
+PL86  is price of labor, year 1986
+PM86  is price of materials, year 1986
